@@ -1,0 +1,17 @@
+[
+    {
+        "_id":"co-05",
+        "_parentId":"course",
+        "_type":"page",
+        "_classes":"",
+        "title":"欢迎了解学多多个性化自适应课程的UI组件",
+        "displayTitle":"欢迎了解学多多个性化自适应课程的UI组件",
+        "body":"在这里我将为您展示学多多自适应课程的交互式用户体验，希望您能感受到学多多的与众不同之处！",
+        "_graphic": {
+            "alt": "学多多",
+            "src": "course/en/images/origami-menu-one.jpg"
+        },
+        "linkText":"点击进入",
+        "duration":"5 mins"
+    }
+]
